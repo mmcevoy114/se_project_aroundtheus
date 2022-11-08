@@ -1,21 +1,29 @@
-# Project 3: Around The U.S.
+Project 3 Around the U.S.
 
-### Overview  
+This is the Third Project at the Practicum Web Development Program where our pages come to life. We followed a design on Figma and created a responsive website.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+We utlilized many of the latest web responsive design web tools while creating this page. Here is a list of some of them.
+
+- HTML Semantics
+
+- CSS Custom Properties
+
+- Positioning
+
+- Media Queries
+
+- SVG's
+
+- Grid layout
+
+- FLexbox
+
+- Responsive Web Design
+
+<a href ="/mmcevoy114/se_project_aroundtheus/demo/main/images/screenshot-desktop.png">Screenshot of Desktop Resolution</a>
+
+<a href ="/mmcevoy114/se_project_aroundtheus/demo/main/images/screenshot-mobile.png">Screenshot of Mobile Resolution</a>
+
+[Link to Git Hub Pages]
+
+https://mmcevoy114.github.io/se_project_aroundtheus/
