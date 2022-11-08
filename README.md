@@ -20,9 +20,9 @@ We utlilized many of the latest web responsive design web tools while creating t
 
 - Responsive Web Design
 
-<a href ="/mmcevoy114/se_project_aroundtheus/demo/main/images/screenshot-desktop.png">Screenshot of Desktop Resolution</a>
+<a href ="/mmcevoy114/se_project_aroundtheus/main/images/screenshot-desktop.png">Screenshot of Desktop Resolution</a>
 
-<a href ="/mmcevoy114/se_project_aroundtheus/demo/main/images/screenshot-mobile.png">Screenshot of Mobile Resolution</a>
+<a href ="/mmcevoy114/se_project_aroundtheus/main/images/screenshot-mobile.png">Screenshot of Mobile Resolution</a>
 
 [Link to Git Hub Pages]
 
