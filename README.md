@@ -24,7 +24,7 @@ We utlilized many of the latest web responsive design web tools while creating t
 
  
  ![screenshot of mobile resolution](./images/demo/screenshot_mobile.png)
-
+ 
 
 [Link to Git Hub Pages]
 
