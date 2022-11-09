@@ -16,13 +16,15 @@ We utlilized many of the latest web responsive design web tools while creating t
 
 - Grid layout
 
-- FLexbox
+- Flexbox
 
 - Responsive Web Design
 
-<a href ="/mmcevoy114/se_project_aroundtheus/main/images/screenshot-desktop.png">Screenshot of Desktop Resolution</a>
+ ![screenshot of desktop resolution](./images/demo/screenshot_desktop.png)
 
-<a href ="/mmcevoy114/se_project_aroundtheus/main/images/screenshot-mobile.png">Screenshot of Mobile Resolution</a>
+ 
+ ![screenshot of mobile resolution](./images/demo/screenshot_mobile.png)
+
 
 [Link to Git Hub Pages]
 
