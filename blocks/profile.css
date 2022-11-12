@@ -95,7 +95,7 @@
   .profile__info {
     grid-template-columns: 12fr 1fr;
     grid-column-gap: 8px;
-    margin-top: 26px;
+    margin-top: 30px;
   }
 
   .profile__description {
@@ -106,8 +106,8 @@
   }
 
   .profile__header {
-    font-size: 20px;
-    line-height: 25px;
+    font-size: 22px;
+    line-height: 27px;
     max-width: 196px;
     justify-self: center;
   }
@@ -128,15 +128,14 @@
   .profile {
     column-gap: 20px;
     justify-content: space-around;
+    width: calc(100% - 38px);
   }
+
 
   .profile__info {
     gap: 10px 12px;
   }
 
-  .profile__image {
-    margin: 15px;
-  }
 
   .profile__header {
     font-size: 25px;
